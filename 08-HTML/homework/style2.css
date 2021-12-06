@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+}
+ .divText{text-align: center;}
+ p{
+     font-size: 19px;
+ }
+ div.ul {
+    
+    margin:left;
+ }
+ img{
+     width: 150px;
+     height: 150px;
+     display:block;
+     margin: auto;
+     border-radius:  50px;
+ }
+ div { text-align: center; }
+ div ul { display:inline-table; }
+ div li { display:inline; }
